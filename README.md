@@ -1,55 +1,58 @@
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=imohitarora"  />
-</div>
+<!-- Header -->
+<h1 align="center">Hi there! 👋 I'm Mohit Arora</h1>
 
-###
+<!-- Bio -->
+<h3 align="center">Software & Cloud Architect | Full-Stack Developer | DevOps Expert | Startup Tech Doer</h3>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imohitarora&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=imohitarora&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imohitarora&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<!-- Summary -->
+<p align="center">
+  Passionate and results-oriented Software and Cloud Architect with over a decade of experience in driving innovation and delivering impactful projects. Proficient in a wide range of technologies including Java, JavaScript frameworks, Microsoft Azure, AWS, and more. Experienced in the FinTech & Supply Chain industries, adept at setting up tech teams, developing scalable solutions, and integrating with external systems. Eager to leverage expertise to drive business success and solve real-world problems. Specializes in hands-on assistance for startups to spin up their tech from scratch.
+</p>
 
-###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohitaroralive" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/i_m_mohit" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/5225859/mohit-arora" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  </a>
-</div>
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/imohitarora?label=Follow%20%40imohitarora&style=social">
+  <img src="https://img.shields.io/badge/-Software%20Architect-brightgreen">
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-blue">
+  <img src="https://img.shields.io/badge/-DevOps%20Expert-red">
+</p>
 
-###
+<!-- Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imohitarora&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imohitarora&layout=compact&theme=dark" alt="Top Languages">
+</p>
 
-<h3 align="left">🛠 Language and tools</h3>
+<!-- Skills -->
+<h3 align="center">Skills</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-red">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow">
+  <img src="https://img.shields.io/badge/-Typescript-blue">
+  <img src="https://img.shields.io/badge/-Spring-green">
+  <img src="https://img.shields.io/badge/-Node.js-brightgreen">
+  <img src="https://img.shields.io/badge/-Microsoft%20Azure-blue">
+  <img src="https://img.shields.io/badge/-AWS-yellow">
+  <img src="https://img.shields.io/badge/-PostgreSQL-orange">
+  <img src="https://img.shields.io/badge/-MongoDB-green">
+  <img src="https://img.shields.io/badge/-Git-orange">
+  <img src="https://img.shields.io/badge/-Jenkins-blue">
+</p>
 
-###
+<!-- Certifications -->
+<h3 align="center">Certifications</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-NCC-red">
+  <img src="https://img.shields.io/badge/-Machine%20Learning%20APIs-blue">
+  <img src="https://img.shields.io/badge/-AWS%20for%20Developers-yellow">
+  <img src="https://img.shields.io/badge/-React.js%20Essential%20Training-blue">
+</p>
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="28" alt="nestjs logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="nextjs logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="java logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="28" alt="postgresql logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="mysql logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="28" alt="azure logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="28" alt="tailwindcss logo"  />
-</div>
-
-###
+<!-- Contact -->
+<h3 align="center">Contact Me</h3>
+<p align="center">
+  <a href="mailto:mohitarora.j2ee@gmail.com">Email</a> | 
+  <a href="https://www.linkedin.com/in/mohitaroralive">LinkedIn</a> | 
+  <a href="https://aboutmohit.com">Personal Website</a>
+</p>
