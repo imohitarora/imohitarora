@@ -2,7 +2,7 @@
 <h1 align="center">Hi there! 👋 I'm Mohit Arora</h1>
 
 <!-- Bio -->
-<h3 align="center">Software & Cloud Architect | Full-Stack Developer | DevOps Expert | Startup Tech Doer</h3>
+<h3 align="center">Software & Cloud Architect | Full-Stack Developer | DevOps Expert </h3>
 
 <!-- Summary -->
 <p align="center">
