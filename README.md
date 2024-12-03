@@ -1,58 +1,62 @@
-<!-- Header -->
-<h1 align="center">Hi there! 👋 I'm Mohit Arora</h1>
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!-- Bio -->
-<h3 align="center">Software & Cloud Architect | Full-Stack Developer | DevOps Expert </h3>
+ 🏗️ Software & Cloud Architect | 💻 Full-Stack Developer | ⚡ DevOps Expert
 
-<!-- Summary -->
+I am a highly skilled software developer and architect with a strong background in full-stack development, specializing in TypeScript, JavaScript, and Java. Currently working as CTO at Indie Tech AI, focused on building scalable cloud solutions and leading technical innovation.
+
+## 🛠️ Technical Skills  
+
+### 👨‍💻 Languages & Frameworks  
+- **Frontend**: React, Angular, Next.js, TailwindCSS  
+- **Backend**: Node.js, NestJS, Spring Boot  
+- **Languages**: TypeScript, Java, Python  
+
+### ☁️ Cloud & DevOps  
+- **Cloud**: Microsoft Azure, AWS, Azure OpenAI  
+- **DevOps Tools**: Docker, Jenkins, Kafka, Kubernetes  
+- **CI/CD Pipelines**: Expertise in building and managing CI/CD pipelines  
+
+### 🗄️ Databases  
+- PostgreSQL, MySQL, MongoDB, Redis, MSSQL  
+
+### 🔧 Technologies & Tools  
+- **Auth & Motion**: Next-Auth, Framer Motion  
+- **BI & Analytics**: Power BI  
+- **Testing**: Jest, Cypress  
+- **Version Control**: Git, GitHub, GitLab  
+- **API Development**: RESTful APIs, GraphQL  
+- **Code Quality**: ESLint, Prettier  
+
+## 🎓 Education
+
+- **MCA** - Master of Computer Applications (2010-2013)
+  <br/>📍 Suresh Gyan Vihar University
+- **BCA** - Bachelor of Computer Applications (2007-2010)
+  <br/>📍 University of Rajasthan
+
+## 🤝 Let's Connect
+
+[![Twitter](https://img.shields.io/badge/Twitter-%40aboutmohit-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aboutmohit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohitaroralive-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitaroralive)
+[![GitHub](https://img.shields.io/badge/GitHub-imohitarora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imohitarora)
+[![Portfolio](https://img.shields.io/badge/Website-aboutmohit.com-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aboutmohit.com)
+[![Email](https://img.shields.io/badge/Email-me%40aboutmohit.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@aboutmohit.com)
+[![BlueSky](https://img.shields.io/badge/BlueSky-aboutmohit.com-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/aboutmohit.com)
+
+## 📊 GitHub Stats
+
 <p align="center">
-  Passionate and results-oriented Software and Cloud Architect with over a decade of experience in driving innovation and delivering impactful projects. Proficient in a wide range of technologies including Java, JavaScript frameworks, Microsoft Azure, AWS, and more. Experienced in the FinTech & Supply Chain industries, adept at setting up tech teams, developing scalable solutions, and integrating with external systems. Eager to leverage expertise to drive business success and solve real-world problems. Specializes in hands-on assistance for startups to spin up their tech from scratch.
+  <img src="https://github-readme-stats.vercel.app/api?username=imohitarora&show_icons=true&theme=tokyonight" alt="Mohit's GitHub Stats" />
 </p>
 
+## 💼 Professional Journey
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/imohitarora?label=Follow%20%40imohitarora&style=social">
-  <img src="https://img.shields.io/badge/-Software%20Architect-brightgreen">
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-blue">
-  <img src="https://img.shields.io/badge/-DevOps%20Expert-red">
-</p>
+- 🎯 **Software Architect** at Indie Tech AI (2022-Present)
+- 👨‍💼 **Senior Software Engineer** at Dun & Bradstreet (2020-2022)
+- 🚀 **Lead Engineer** at SelFin India Financial Services (2019-2020)
+- 💻 **Software Engineer** at Edelweiss Financial Services (2015-2019)
+- 🌟 **Software Engineer** at Pratham Software (2014-2015)
 
-<!-- Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imohitarora&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imohitarora&layout=compact&theme=dark" alt="Top Languages">
-</p>
+---
 
-<!-- Skills -->
-<h3 align="center">Skills</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Java-red">
-  <img src="https://img.shields.io/badge/-JavaScript-yellow">
-  <img src="https://img.shields.io/badge/-Typescript-blue">
-  <img src="https://img.shields.io/badge/-Spring-green">
-  <img src="https://img.shields.io/badge/-Node.js-brightgreen">
-  <img src="https://img.shields.io/badge/-Microsoft%20Azure-blue">
-  <img src="https://img.shields.io/badge/-AWS-yellow">
-  <img src="https://img.shields.io/badge/-PostgreSQL-orange">
-  <img src="https://img.shields.io/badge/-MongoDB-green">
-  <img src="https://img.shields.io/badge/-Git-orange">
-  <img src="https://img.shields.io/badge/-Jenkins-blue">
-</p>
-
-<!-- Certifications -->
-<h3 align="center">Certifications</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-NCC-red">
-  <img src="https://img.shields.io/badge/-Machine%20Learning%20APIs-blue">
-  <img src="https://img.shields.io/badge/-AWS%20for%20Developers-yellow">
-  <img src="https://img.shields.io/badge/-React.js%20Essential%20Training-blue">
-</p>
-
-<!-- Contact -->
-<h3 align="center">Contact Me</h3>
-<p align="center">
-  <a href="mailto:mohitarora.j2ee@gmail.com">Email</a> | 
-  <a href="https://www.linkedin.com/in/mohitaroralive">LinkedIn</a> | 
-  <a href="https://aboutmohit.com">Personal Website</a>
-</p>
+💬 Let's connect! Open for consulting, collaboration, or just a tech chat!
