@@ -43,12 +43,6 @@ I am a highly skilled software developer and architect with a strong background 
 [![Email](https://img.shields.io/badge/Email-me%40aboutmohit.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@aboutmohit.com)
 [![BlueSky](https://img.shields.io/badge/BlueSky-aboutmohit.com-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/aboutmohit.com)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imohitarora&show_icons=true&theme=tokyonight" alt="Mohit's GitHub Stats" />
-</p>
-
 ## 💼 Professional Journey
 
 - 🎯 **Software Architect** at Indie Tech AI (2022-Present)
