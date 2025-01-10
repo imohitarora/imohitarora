@@ -2,8 +2,6 @@
 
  🏗️ Software & Cloud Architect | 💻 Full-Stack Developer | ⚡ DevOps Expert
 
-## 🤝 
-
 [![Twitter](https://img.shields.io/badge/Twitter-%40aboutmohit-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aboutmohit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohitaroralive-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitaroralive)
 [![GitHub](https://img.shields.io/badge/GitHub-imohitarora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imohitarora)
