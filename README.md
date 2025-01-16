@@ -1,6 +1,6 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> from Mohit
 
- 🏗️ Software & Cloud Architect | 💻 Full-Stack Developer | ⚡ DevOps Expert
+ 🏗️ Software & Cloud Architect | 💻 Full-Stack Developer | ⚡ DevOps Learner
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40aboutmohit-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aboutmohit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohitaroralive-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitaroralive)
